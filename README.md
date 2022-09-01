@@ -51,6 +51,8 @@ I am a Frontend Developer from India
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
 </div>
 
+---
+
 ### :fire: My Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaHobbyist&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
