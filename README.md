@@ -56,3 +56,7 @@ I am a Frontend Developer from India
 ### :fire: My Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaHobbyist&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### My Badges: 
+
+[![An image of @thahobbist's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thahobbist)](https://holopin.io/@thahobbist)
