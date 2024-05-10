@@ -60,3 +60,5 @@ I am a Frontend Developer from India
 ### My Badges: 
 
 [![An image of @thahobbist's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thahobbist)](https://holopin.io/@thahobbist)
+
+<a href="https://app.daily.dev/tha_hobbist"><img src="https://api.daily.dev/devcards/v2/rKPl71jSnG9mb7uRIcnlL.png?r=uqy" width="356" alt="Diptangshu Dey's Dev Card"/></a>
