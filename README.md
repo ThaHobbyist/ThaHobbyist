@@ -26,7 +26,7 @@
 
 I am a Frontend Developer from India
 
--   I am currently in 3rd year of my B.Tech in Computer Science and Engineering in National Institute of Technology, Durgapur.
+-   I am an undergraduate in Computer Science and Engineering from National Institute of Technology, Durgapur.
 -   In my free time, I make UI designs on dribbble.
 -   I also do Competitive Programming on Codechef and Codeforces.
 
